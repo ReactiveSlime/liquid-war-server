@@ -1,0 +1,19 @@
+{
+  "name": "liquid-wars-multiplayer-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for Liquid Wars multiplayer",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["liquid-wars", "websocket", "multiplayer"],
+  "author": "",
+  "license": "MIT"
+}

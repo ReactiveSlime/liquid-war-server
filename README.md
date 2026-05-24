@@ -1,6 +1,6 @@
 # Liquid War Multiplayer Server
 
-WebSocket server for [Liquid War](https://github.com/liquid-war/client) multiplayer matches. Handles room management, player synchronization, and real-time game state updates.
+WebSocket server for [Liquid War](https://github.com/ReactiveSlime/liquid-war) multiplayer matches. Handles room management, player synchronization, and real-time game state updates.
 
 ## Features
 
